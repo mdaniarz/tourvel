@@ -7,7 +7,7 @@
         <section class="inner-page-wrap">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-                <div class="inner-baner-container" style="background-image: url(assets/images/3.jpg);">
+                <div class="inner-baner-container" style="background-image: url(asset/images/3.jpg);">
                     <div class="container">
                         <div class="inner-banner-content">
                             <h1 class="page-title">About Us</h1>
@@ -23,7 +23,7 @@
                         <div class="col-lg-8">
                             <div class="about-content">
                                 <figure class="about-image">
-                                    <img src="assets/images/6.jpg" alt="">
+                                    <img src="asset/images/6.jpg" alt="">
                                     <div class="about-image-content">
                                         <h3>WE ARE BEST FOR TOURS & TRAVEL!</h3>
                                     </div>
@@ -42,19 +42,19 @@
                             </div>
                             <div class="client-slider white-bg">
                                 <figure class="client-item">
-                                    <img src="assets/images/client-img7.png" alt="">
+                                    <img src="asset/images/client-img7.png" alt="">
                                 </figure>
                                 <figure class="client-item">
-                                    <img src="assets/images/client-img8.png" alt="">
+                                    <img src="asset/images/client-img8.png" alt="">
                                 </figure>
                                 <figure class="client-item">
-                                    <img src="assets/images/client-img9.png" alt="">
+                                    <img src="asset/images/client-img9.png" alt="">
                                 </figure>
                                 <figure class="client-item">
-                                    <img src="assets/images/client-img10.png" alt="">
+                                    <img src="asset/images/client-img10.png" alt="">
                                 </figure>
                                 <figure class="client-item">
-                                    <img src="assets/images/client-img11.png" alt="">
+                                    <img src="asset/images/client-img11.png" alt="">
                                 </figure>
                             </div>
                         </div>
@@ -95,7 +95,7 @@
             </div>
             <!-- ***about section html start form here*** -->
             <!-- ***callback section html start form here*** -->
-            <div class="bg-img-fullcallback" style="background-image: url(assets/images/9.jpg);">
+            <div class="bg-img-fullcallback" style="background-image: url(asset/images/9.jpg);">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="row">

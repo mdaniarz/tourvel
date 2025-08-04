@@ -9,19 +9,19 @@
     <!-- favicon -->
     <link rel="icon" type="ico" href="{{ asset('asset/images/favicon.ico') }}">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/vendors/bootstrap/css/bootstrap.min.css') }}" media="all">
+    <link rel="stylesheet" href="{{ asset('asset/vendors/bootstrap/css/bootstrap.min.css') }}" media="all">
     <!-- jquery-ui css -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/jquery-ui/jquery-ui.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('asset/vendors/jquery-ui/jquery-ui.min.css') }}">
     <!-- fancybox box css -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/fancybox/dist/jquery.fancybox.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('asset/vendors/fancybox/dist/jquery.fancybox.min.css') }}">
     <!-- Fonts Awesome CSS -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/fontawesome/css/all.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('asset/vendors/fontawesome/css/all.min.css') }}">
     <!-- Elmentkit Icon CSS -->
     <link rel="stylesheet" type="text/css"
-        href="{{ asset('assets/vendors/elementskit-icon-pack/assets/css/ekiticons.css') }}">
+        href="{{ asset('asset/vendors/elementskit-icon-pack/asset/css/ekiticons.css') }}">
     <!-- slick slider css -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/slick/slick.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/vendors/slick/slick-theme.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('asset/vendors/slick/slick.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('asset/vendors/slick/slick-theme.css') }}">
     <!-- google fonts -->
     <link
         href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap"
@@ -35,7 +35,7 @@
 <body class="home">
     <div id="siteLoader" class="site-loader">
         <div class="preloader-content">
-            <img src="assets/images/loader1.gif" alt="">
+            <img src="asset/images/loader1.gif" alt="">
         </div>
     </div>
     <div id="page" class="page">
@@ -57,7 +57,7 @@
                         <div class="site-logo text-center">
                             <h1 class="site-title">
                                 <a href="index.html">
-                                    <img src="assets/images/logo2.png" alt="Logo">
+                                    <img src="asset/images/logo2.png" alt="Logo">
                                 </a>
                             </h1>
                         </div>
@@ -214,7 +214,7 @@
                             <div class="col-lg-3 col-sm-6">
                                 <aside class="widget widget_text">
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="assets/images/logo2.png" alt=""></a>
+                                        <a href="index.html"><img src="asset/images/logo2.png" alt=""></a>
                                     </div>
                                     <div class="textwidget widget-text">
                                         Urna ratione ante harum provident, eleifend, vulputate molestiae proin
@@ -229,7 +229,7 @@
                                     <ul>
                                         <li>
                                             <figure class="post-thumb">
-                                                <a href="blog-archive.html"><img src="assets/images/1.jpg"
+                                                <a href="blog-archive.html"><img src="asset/images/1.jpg"
                                                         alt=""></a>
                                             </figure>
                                             <div class="post-content">
@@ -245,7 +245,7 @@
                                         </li>
                                         <li>
                                             <figure class="post-thumb">
-                                                <a href="blog-archive.html"><img src="assets/images/2.jpg"
+                                                <a href="blog-archive.html"><img src="asset/images/2.jpg"
                                                         alt=""></a>
                                             </figure>
                                             <div class="post-content">
@@ -293,33 +293,33 @@
                                     <h3 class="widget-title">Gallery</h3>
                                     <div class="gallery gallery-colum-3">
                                         <figure class="gallery-item">
-                                            <a href="assets/images/1.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/1.jpg" alt="">
+                                            <a href="asset/images/1.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/1.jpg" alt="">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
-                                            <a href="assets/images/2.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/2.jpg" alt="">
+                                            <a href="asset/images/2.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/2.jpg" alt="">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
-                                            <a href="assets/images/3.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/3.jpg" alt="">
+                                            <a href="asset/images/3.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/3.jpg" alt="">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
-                                            <a href="assets/images/4.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/4.jpg" alt="">
+                                            <a href="asset/images/4.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/4.jpg" alt="">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
-                                            <a href="assets/images/5.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/5.jpg" alt="">
+                                            <a href="asset/images/5.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/5.jpg" alt="">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
-                                            <a href="assets/images/6.jpg" data-fancybox="gallery-1">
-                                                <img src="assets/images/6.jpg" alt="">
+                                            <a href="asset/images/6.jpg" data-fancybox="gallery-1">
+                                                <img src="asset/images/6.jpg" alt="">
                                             </a>
                                         </figure>
                                     </div>
@@ -415,18 +415,18 @@
     </div>
 
     <!-- JavaScript -->
-    <script src="assets/vendors/jquery/jquery.js"></script>
-    <script src="assets/vendors/waypoint/waypoints.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/vendors/jquery-ui/jquery-ui.min.js"></script>
-    <script src="assets/vendors/countdown-date-loop-counter/loopcounter.js"></script>
-    <script src="assets/vendors/counterup/jquery.counterup.min.js"></script>
+    <script src="asset/vendors/jquery/jquery.js"></script>
+    <script src="asset/vendors/waypoint/waypoints.js"></script>
+    <script src="asset/vendors/bootstrap/js/bootstrap.min.js"></script>
+    <script src="asset/vendors/jquery-ui/jquery-ui.min.js"></script>
+    <script src="asset/vendors/countdown-date-loop-counter/loopcounter.js"></script>
+    <script src="asset/vendors/counterup/jquery.counterup.min.js"></script>
     <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/vendors/masonry/masonry.pkgd.min.js"></script>
-    <script src="assets/vendors/slick/slick.min.js"></script>
-    <script src="assets/vendors/fancybox/dist/jquery.fancybox.min.js"></script>
-    <script src="assets/vendors/slick-nav/jquery.slicknav.js"></script>
-    <script src="assets/js/custom.min.js"></script>
+    <script src="asset/vendors/masonry/masonry.pkgd.min.js"></script>
+    <script src="asset/vendors/slick/slick.min.js"></script>
+    <script src="asset/vendors/fancybox/dist/jquery.fancybox.min.js"></script>
+    <script src="asset/vendors/slick-nav/jquery.slicknav.js"></script>
+    <script src="asset/js/custom.min.js"></script>
 </body>
 
 </html>

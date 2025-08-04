@@ -7,7 +7,7 @@
         <!-- ***home banner html start form here*** -->
         <section class="home-banner-section home-banner-slider">
             <div class="home-banner d-flex flex-wrap align-items-center"
-                style="background-image: url(assets/images/banner-img1.jpg);">
+                style="background-image: url(asset/images/banner-img1.jpg);">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="banner-content text-center">
@@ -28,8 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="home-banner d-flex flex-wrap align-items-center"
-                style="background-image: url(assets/images/2.jpg);">
+            <div class="home-banner d-flex flex-wrap align-items-center" style="background-image: url(asset/images/2.jpg);">
                 <div class="overlay"></div>
                 <div class="container">
                     <div class="banner-content text-center">
@@ -69,7 +68,7 @@
                 <div class="destination-section">
                     <div class="row">
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/1.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/1.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">
@@ -87,7 +86,7 @@
                             </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/2.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/2.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">
@@ -105,7 +104,7 @@
                             </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/3.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/3.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">
@@ -146,7 +145,7 @@
                 </div>
                 <div class="package-section">
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/1.png);">
+                        <figure class="package-image" style="background-image: url(asset/images/1.png);">
                         </figure>
                         <div class="package-content">
                             <h3>
@@ -189,7 +188,7 @@
                         </div>
                     </article>
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/2.png);">
+                        <figure class="package-image" style="background-image: url(asset/images/2.png);">
                         </figure>
                         <div class="package-content">
                             <h3>
@@ -232,7 +231,7 @@
                         </div>
                     </article>
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/3.png);">
+                        <figure class="package-image" style="background-image: url(asset/images/3.png);">
                         </figure>
                         <div class="package-content">
                             <h3>
@@ -282,7 +281,7 @@
         </section>
         <!-- ***Home package html end here*** -->
         <!-- ***Home callback html start from here*** -->
-        <section class="home-callback bg-img-fullcallback" style="background-image: url(assets/images/2.jpg);">
+        <section class="home-callback bg-img-fullcallback" style="background-image: url(asset/images/2.jpg);">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -365,7 +364,7 @@
                 <div class="offer-section">
                     <div class="row">
                         <div class="col-md-6">
-                            <article class="offer-item" style="background-image: url(assets/images/1.png);">
+                            <article class="offer-item" style="background-image: url(asset/images/1.png);">
                                 <div class="offer-badge">
                                     UPTO <span>25%</span> off
                                 </div>
@@ -402,7 +401,7 @@
                             </article>
                         </div>
                         <div class="col-md-6">
-                            <article class="offer-item" style="background-image: url(assets/images/3.png);">
+                            <article class="offer-item" style="background-image: url(asset/images/3.png);">
                                 <div class="offer-badge">
                                     UPTO <span>17%</span> off
                                 </div>
@@ -464,43 +463,43 @@
                     <div class="gallery-container grid">
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/1.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/1.jpg" alt="">
+                                <a href="asset/images/1.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/1.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/2.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/2.jpg" alt="">
+                                <a href="asset/images/2.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/2.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/3.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/3.jpg" alt="">
+                                <a href="asset/images/3.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/3.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/4.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/4.jpg" alt="">
+                                <a href="asset/images/4.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/4.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/5.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/5.jpg" alt="">
+                                <a href="asset/images/5.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/5.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
                         <div class="single-gallery grid-item">
                             <figure class="gallery-img">
-                                <a href="assets/images/6.jpg" data-fancybox="gallery">
-                                    <img src="assets/images/6.jpg" alt="">
+                                <a href="asset/images/6.jpg" data-fancybox="gallery">
+                                    <img src="asset/images/6.jpg" alt="">
                                 </a>
                             </figure>
                         </div>
@@ -536,7 +535,7 @@
                                 labore et dolore magna aliqua.</p>
                             <div class="author-content">
                                 <figure class="testimonial-img">
-                                    <img src="assets/images/img18.jpg" alt="">
+                                    <img src="asset/images/img18.jpg" alt="">
                                 </figure>
                                 <div class="author-name">
                                     <h5>WILLIAM WRIGHT</h5>
@@ -560,7 +559,7 @@
                                 labore et dolore magna aliqua.</p>
                             <div class="author-content">
                                 <figure class="testimonial-img">
-                                    <img src="assets/images/img19.jpg" alt="">
+                                    <img src="asset/images/img19.jpg" alt="">
                                 </figure>
                                 <div class="author-name">
                                     <h5>ALISON WHITE</h5>
@@ -584,7 +583,7 @@
                                 labore et dolore magna aliqua.</p>
                             <div class="author-content">
                                 <figure class="testimonial-img">
-                                    <img src="assets/images/img20.jpg" alt="">
+                                    <img src="asset/images/img20.jpg" alt="">
                                 </figure>
                                 <div class="author-name">
                                     <h5>GEORGE SMITH</h5>
@@ -608,7 +607,7 @@
                                 labore et dolore magna aliqua.</p>
                             <div class="author-content">
                                 <figure class="testimonial-img">
-                                    <img src="assets/images/img19.jpg" alt="">
+                                    <img src="asset/images/img19.jpg" alt="">
                                 </figure>
                                 <div class="author-name">
                                     <h5>ALISON WHITE</h5>

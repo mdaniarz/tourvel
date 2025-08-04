@@ -7,7 +7,7 @@
         <section class="inner-page-wrap">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-                <div class="inner-baner-container" style="background-image: url(assets/images/4.jpg);">
+                <div class="inner-baner-container" style="background-image: url(asset/images/4.jpg);">
                     <div class="container">
                         <div class="inner-banner-content">
                             <h1 class="page-title">Tour Packages</h1>
@@ -20,7 +20,7 @@
             <div class="package-item-wrap">
                 <div class="container">
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/1.png);"></figure>
+                        <figure class="package-image" style="background-image: url(asset/images/1.png);"></figure>
                         <div class="package-content">
                             <h3>
                                 <a href="package-detail.html">
@@ -62,7 +62,7 @@
                         </div>
                     </article>
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/2.png);"></figure>
+                        <figure class="package-image" style="background-image: url(asset/images/2.png);"></figure>
                         <div class="package-content">
                             <h3>
                                 <a href="package-detail.html">
@@ -104,7 +104,7 @@
                         </div>
                     </article>
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/3.png);"></figure>
+                        <figure class="package-image" style="background-image: url(asset/images/3.png);"></figure>
                         <div class="package-content">
                             <h3>
                                 <a href="package-detail.html">
@@ -146,7 +146,7 @@
                         </div>
                     </article>
                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/banner-img1.jpg);">
+                        <figure class="package-image" style="background-image: url(asset/images/banner-img1.jpg);">
                         </figure>
                         <div class="package-content">
                             <h3>

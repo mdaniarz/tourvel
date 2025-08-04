@@ -9,7 +9,7 @@
         <section class="destination-inner-page">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-                <div class="inner-baner-container" style="background-image: url(assets/images/8.jpg);">
+                <div class="inner-baner-container" style="background-image: url(asset/images/8.jpg);">
                     <div class="container">
                         <div class="inner-banner-content">
                             <h1 class="page-title">Destination</h1>
@@ -23,7 +23,7 @@
                 <div class="container">
                     <div class="row gx-5">
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/1.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/1.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">
@@ -41,7 +41,7 @@
                             </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/2.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/2.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">
@@ -59,7 +59,7 @@
                             </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                            <article class="destination-item" style="background-image: url(assets/images/3.png);">
+                            <article class="destination-item" style="background-image: url(asset/images/3.png);">
                                 <div class="destination-content">
                                     <div class="rating-start-wrap">
                                         <div class="rating-start">

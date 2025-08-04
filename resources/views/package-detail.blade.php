@@ -7,7 +7,7 @@
         <section class="package-inner-page">
             <!-- ***Inner Banner html start form here*** -->
             <div class="inner-banner-wrap">
-                <div class="inner-baner-container" style="background-image: url(assets/images/4.jpg);">
+                <div class="inner-baner-container" style="background-image: url(asset/images/4.jpg);">
                     <div class="container">
                         <div class="inner-banner-content">
                             <h1 class="page-title">Package Detail</h1>
@@ -60,7 +60,7 @@
                                     </ul>
                                 </div>
                                 <figure class="single-package-image">
-                                    <img src="assets/images/3.png" alt="">
+                                    <img src="asset/images/3.png" alt="">
                                 </figure>
                                 <div class="package-content-detail">
                                     <article class="package-overview">
@@ -154,13 +154,13 @@
                                     </p>
                                     <div class="related-package-slide">
                                         <div class="related-package-item">
-                                            <img src="assets/images/4.jpg" alt="">
+                                            <img src="asset/images/4.jpg" alt="">
                                         </div>
                                         <div class="related-package-item">
-                                            <img src="assets/images/5.jpg" alt="">
+                                            <img src="asset/images/5.jpg" alt="">
                                         </div>
                                         <div class="related-package-item">
-                                            <img src="assets/images/6.jpg" alt="">
+                                            <img src="asset/images/6.jpg" alt="">
                                         </div>
                                     </div>
                                 </div>
