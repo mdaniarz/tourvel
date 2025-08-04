@@ -190,7 +190,6 @@ return [
             'pengguna' => ['admin'],
             'access' => [
                 'user change-password',
-                // 'user forgot-password',
                 'user profile',
                 'user view',
                 'user create',
@@ -210,24 +209,51 @@ return [
             ]
         ],
         [
-            'group' => 'pendaftaran tryout',
-            'pengguna' => ['peserta', 'admin'],
+            'group' => 'dashboard',
+            'pengguna' => ['admin'],
             'access' => [
-                'pendaftaran-tryout view',
-                'pendaftaran-tryout create',
-                'pendaftaran-tryout edit',
-                'pendaftaran-tryout delete',
-                // 'pendaftaran-tryout daftar-by-admin',
-                'pendaftaran-tryout rekap-pendaftar',
-                'pendaftaran-tryout laporan-pembayaran',
+                'dashboard view',
             ]
         ],
         [
-            'group' => 'peserta tryout',
+            'group' => 'section',
+            'pengguna' => ['admin'],
             'access' => [
-                'peserta cara-pembayaran',
-                'peserta kartu-tryout',
+                'section view',
+                'section create',
+                'section edit',
+                'section delete',
             ]
         ],
+        [
+            'group' => 'destinasi',
+            'pengguna' => ['admin'],
+            'access' => [
+                'destination view',
+                'destination create',
+                'destination edit',
+                'destination delete',
+            ]
+        ],
+        [
+            'group' => 'paket wisata',
+            'pengguna' => ['admin'],
+            'access' => [
+                'package view',
+                'package create',
+                'package edit',
+                'package delete',
+            ]
+        ],
+       [
+           'group' => 'galeri',
+           'pengguna' => ['admin'],
+           'access' => [
+               'galeri view',
+               'galeri create',
+               'galeri edit',
+               'galeri delete',
+           ]
+       ]
     ]
 ];

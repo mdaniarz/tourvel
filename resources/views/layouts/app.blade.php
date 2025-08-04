@@ -49,7 +49,7 @@
                             <a href="tel:+01977259912">
                                 <i aria-hidden="true" class="icon icon-phone-call2"></i>
                                 <div class="header-contact-details">
-                                    <span class="contact-label">For Further Inquires :</span>
+                                    <span class="contact-label">Informasi & Pemesanan :</span>
                                     <h5 class="header-contact-no">(0281) 63 6623</h5>
                                 </div>
                             </a>
@@ -102,99 +102,31 @@
                             <nav id="navigation" class="navigation">
                                 <ul>
                                     <li class="menu-active">
-                                        <a href="index.html">Home</a>
+                                        <a href="#home">Beranda</a>
                                     </li>
                                     <li>
-                                        <a href="about.html">about us</a>
+                                        <a href="#">Tentang Kami</a>
                                     </li>
                                     <li>
-                                        <a href="destination.html">destination</a>
+                                        <a href="#destination">Destinasi</a>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="index.html">packages</a>
-                                        <ul>
-                                            <li>
-                                                <a href="package.html">Packages</a>
-                                            </li>
-                                            <li>
-                                                <a href="package-offer.html">Package offer</a>
-                                            </li>
-                                            <li>
-                                                <a href="package-detail.html">Package detail</a>
-                                            </li>
-                                            <li>
-                                                <a href="cart.html">Cart page</a>
-                                            </li>
-                                            <li>
-                                                <a href="booking.html">Booking page</a>
-                                            </li>
-                                            <li>
-                                                <a href="confirmation.html">Confirmation</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="#package">Paket Wisata</a>
                                     </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="index.html">Pages</a>
-                                        <ul>
-                                            <li>
-                                                <a href="home-banner.html">Home Banner</a>
-                                            </li>
-                                            <li>
-                                                <a href="service.html">Service</a>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Career</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="career.html">Career</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="career-detail.html">Career detail</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="team.html">Tour guide</a>
-                                            </li>
-                                            <li>
-                                                <a href="gallery.html">Gallery page</a>
-                                            </li>
-                                            <li class="menu-item-has-children">
-                                                <a href="#">Blog</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="blog-archive.html">Blog archive</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="blog-single.html">blog single</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="single-page.html">Single Page</a>
-                                            </li>
-                                            <li>
-                                                <a href="testimonial.html">Testimonial</a>
-                                            </li>
-                                            <li>
-                                                <a href="faq.html">Faq Page</a>
-                                            </li>
-                                            <li>
-                                                <a href="search-page.html">Search Page</a>
-                                            </li>
-                                            <li>
-                                                <a href="404.html">404 Page</a>
-                                            </li>
-                                            <li>
-                                                <a href="comming-soon.html">Comming Soon Page</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="#gallery">Galeri</a>
+                                    </li>
+                                    <li>
+                                        <a href="#testimonial">Testimoni</a>
+                                    </li>
+                                    <li>
+                                        <a href="#contact">Kontak</a>
                                     </li>
                                 </ul>
                             </nav>
                         </div>
                         <div class="header-btn">
-                            <a href="contact.html" class="round-btn">Contact Us</a>
+                            <a href="#contact" class="round-btn">Hubungi Kami</a>
                         </div>
                     </div>
                 </div>
@@ -217,65 +149,29 @@
                                         <a href="index.html"><img src="asset/images/logo2.png" alt=""></a>
                                     </div>
                                     <div class="textwidget widget-text">
-                                        Urna ratione ante harum provident, eleifend, vulputate molestiae proin
-                                        fringilla,
-                                        praesentium magna conubia at perferendis, pretium, aenean aut ultrices.
+                                        <strong>Travel Al-Irsyad Purwokerto</strong> adalah partner perjalanan Anda untuk wisata, umroh, dan perjalanan edukasi terbaik. Kami siap membantu mewujudkan liburan impian Anda dengan pelayanan profesional dan harga terjangkau.
                                     </div>
                                 </aside>
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <aside class="widget widget_latest_post widget-post-thumb">
-                                    <h3 class="widget-title">RECENT POST</h3>
-                                    <ul>
-                                        <li>
-                                            <figure class="post-thumb">
-                                                <a href="blog-archive.html"><img src="asset/images/1.jpg"
-                                                        alt=""></a>
-                                            </figure>
-                                            <div class="post-content">
-                                                <h6>
-                                                    <a href="blog-single.html">BEST JOURNEY TO PEACEFUL PLACES</a>
-                                                </h6>
-                                                <div class="entry-meta">
-                                                    <span class="posted-on">
-                                                        <a href="blog-archive.html">February 17, 2022</a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <figure class="post-thumb">
-                                                <a href="blog-archive.html"><img src="asset/images/2.jpg"
-                                                        alt=""></a>
-                                            </figure>
-                                            <div class="post-content">
-                                                <h6>
-                                                    <a href="blog-single.html">TRAVEL WITH FRIENDS IS BEST</a>
-                                                </h6>
-                                                <div class="entry-meta">
-                                                    <span class="posted-on">
-                                                        <a href="blog-archive.html">February 17, 2022</a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
+                                  
                                 </aside>
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <aside class="widget widget_text">
-                                    <h3 class="widget-title">CONTACT US</h3>
+                                    <h3 class="widget-title">KONTAK KAMI</h3>
                                     <div class="textwidget widget-text">
-                                        <p>Feel free to contact and<br /> reach us !!</p>
+                                        <p>Butuh bantuan atau ingin konsultasi perjalanan? Hubungi kami:</p>
                                         <ul>
                                             <li>
-                                                <a href="tel:+01988256203">
+                                                <a href="tel:+62281636623">
                                                     <i aria-hidden="true" class="icon icon-phone1"></i>
                                                     (0281) 63 6623
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="mailtop:info@domain.com">
+                                                <a href="mailto:travelairsyadpwt@gmail.com">
                                                     <i aria-hidden="true" class="icon icon-envelope1"></i>
                                                     travelairsyadpwt@gmail.com
                                                 </a>
@@ -290,36 +186,36 @@
                             </div>
                             <div class="col-lg-3 col-sm-6">
                                 <aside class="widget">
-                                    <h3 class="widget-title">Gallery</h3>
+                                    <h3 class="widget-title">Galeri</h3>
                                     <div class="gallery gallery-colum-3">
                                         <figure class="gallery-item">
                                             <a href="asset/images/1.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/1.jpg" alt="">
+                                                <img src="asset/images/1.jpg" alt="Foto suasana wisata">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
                                             <a href="asset/images/2.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/2.jpg" alt="">
+                                                <img src="asset/images/2.jpg" alt="Foto peserta tour">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
                                             <a href="asset/images/3.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/3.jpg" alt="">
+                                                <img src="asset/images/3.jpg" alt="Foto destinasi favorit">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
                                             <a href="asset/images/4.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/4.jpg" alt="">
+                                                <img src="asset/images/4.jpg" alt="Foto perjalanan umroh">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
                                             <a href="asset/images/5.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/5.jpg" alt="">
+                                                <img src="asset/images/5.jpg" alt="Foto edukasi">
                                             </a>
                                         </figure>
                                         <figure class="gallery-item">
                                             <a href="asset/images/6.jpg" data-fancybox="gallery-1">
-                                                <img src="asset/images/6.jpg" alt="">
+                                                <img src="asset/images/6.jpg" alt="Foto kebersamaan">
                                             </a>
                                         </figure>
                                     </div>
@@ -331,11 +227,11 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="footer-newsletter">
-                                    <p>Subscribe our newsletter for more update & news !!</p>
+                                    <p>Dapatkan info promo, tips wisata, dan update terbaru dari kami langsung ke email Anda!</p>
                                     <form class="newsletter">
-                                        <input type="email" name="email" placeholder="Enter Your Email">
+                                        <input type="email" name="email" placeholder="Masukkan Email Anda">
                                         <button type="submit"
-                                            class="outline-btn outline-btn-white">Subscribe</button>
+                                            class="outline-btn outline-btn-white">Langganan</button>
                                     </form>
                                 </div>
                             </div>
@@ -372,13 +268,13 @@
                                 <div class="footer-menu">
                                     <ul>
                                         <li>
-                                            <a href="policy.html">Privacy Policy</a>
+                                            <a href="#">Kebijakan Privasi</a>
                                         </li>
                                         <li>
-                                            <a href="policy.html">Term & Condition</a>
+                                            <a href="#">Syarat & Ketentuan</a>
                                         </li>
                                         <li>
-                                            <a href="faq.html">FAQ</a>
+                                            <a href="#">FAQ</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -389,7 +285,7 @@
             </div>
             <div class="bottom-footer">
                 <div class="container">
-                    <div class="copy-right text-center">Copyright &copy; 2025 Prabubima Tech. All rights reserved.
+                    <div class="copy-right text-center">&copy; {{ date('Y') }} Tour & Travel. Semua hak cipta dilindungi.
                     </div>
                 </div>
             </div>

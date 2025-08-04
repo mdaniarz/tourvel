@@ -69,14 +69,7 @@ class RoleAndPermissionController extends Controller implements HasMiddleware
                 // Tambahkan permission baru yang belum ada
                 $permissionsToAdd = array_diff($newPermissions, $existingPermissions);
 
-                // echo '<pre>';
-                // print_r($existingPermissions);
-                // print_r($newPermissions);
-                // print_r($permissionsToDelete);
-                // print_r($permissionsToAdd);
-                // echo '</pre>';
-                // die;
-
+           
                 // operasi update dan delete permission
                 Permission::whereIn('name', $permissionsToDelete)->delete();
 

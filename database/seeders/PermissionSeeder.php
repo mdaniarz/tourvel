@@ -22,7 +22,7 @@ class PermissionSeeder extends Seeder
             }
         }
       
-        $roleAdmin = Role::where('name', 'admin')->first();
+        $roleAdmin = Role::firstOrCreate(['name' => 'admin']);
        
         if ($roleAdmin) {
             $roleAdmin->givePermissionTo(Permission::all());

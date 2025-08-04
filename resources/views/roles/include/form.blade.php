@@ -63,7 +63,7 @@
 
                         <div class="mt-2">
                             @foreach ($permission['access'] as $access)
-                                @if (in_array($access, $existingPermissions))
+                                @if (in_array($access, $existingPermissions ?? []))
                                     <div class="form-check">
                                         <input class="form-check-input" type="checkbox" id="{{ str()->slug($access) }}"
                                             name="permissions[]" value="{{ $access }}"

@@ -1,17 +1,32 @@
 <?php
 
-$nav = [
+$nav = [  
+    "Master Beranda" => [
+        [
+            "title" => "Atur Beranda",
+            "icon" => '<i class="menu-icon tf-icons bx bx-home"></i>',
+            "route" => 'sections.index',
+            "permissions" => ['section view'],
+        ],
+    ],
     "General" => [
         [
-            "title" => "Master Data",
+            "title" => "Destinasi",
             "icon" => '<i class="menu-icon tf-icons bx bx-briefcase"></i>',
-            "submenus" => [
-                [
-                    'title' => '',
-                    'route' => '',
-                    'permissions' => ['']
-                ],
-            ],
+            "route" => 'destinations.index',
+            "permissions" => ['destination view'],
+        ],
+        [
+            "title" => "Paket Wisata",
+            "icon" => '<i class="menu-icon tf-icons bx bx-package"></i>',
+            "route" => 'packages.index',
+            "permissions" => ['package view'],
+        ],
+        [
+            "title" => "Galeri",
+            "icon" => '<i class="menu-icon tf-icons bx bx-image"></i>',
+            "route" => 'galeries.index',
+            "permissions" => ['galery view'],
         ],
         
     ],
