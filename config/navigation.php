@@ -7,18 +7,13 @@ $nav = [
             "icon" => '<i class="menu-icon tf-icons bx bx-briefcase"></i>',
             "submenus" => [
                 [
-                    'title' => 'Pendaftaran Tryout',
-                    'route' => 'pendaftaran-tryout.index',
-                    'permissions' => ['pendaftaran-tryout view']
+                    'title' => '',
+                    'route' => '',
+                    'permissions' => ['']
                 ],
             ],
         ],
-        [
-            "title" => "Laporan Contoh",
-            "icon" => '<i class="menu-icon tf-icons bx bx-briefcase"></i>',
-            'route' => null,
-            'permissions' => null
-        ],
+        
     ],
     "Misc" => [
         [
