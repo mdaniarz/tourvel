@@ -32,12 +32,6 @@ $nav = [
                 ],
             ],
         ],
-        [
-            "title" => "Rekap User",
-            "icon" => '<i class="menu-icon tf-icons bx bx-list-check"></i>',
-            "route" => null,
-            "permissions" => null,
-        ],
     ]
 ];
 

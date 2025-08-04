@@ -24,12 +24,6 @@
                             Tambah user
                         </a>
                     @endcan
-                    @can('user-unit-sekolah create')
-                        <a href="{{ route('users.create-user-unit') }}" class="mb-3 btn btn-success">
-                            <i class="fas fa-plus"></i>
-                            Tambah user unit sekolah
-                        </a>
-                    @endcan
                 </div>
 
                 <div class="row">
